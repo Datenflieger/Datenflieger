@@ -18,7 +18,7 @@
 ![Purpur](https://img.shields.io/badge/Purpur-000000?style=for-the-badge&logo=minecraft&logoColor=white)
 ![Fabric](https://img.shields.io/badge/Fabric-000000?style=for-the-badge&logo=minecraft&logoColor=white)
 
-### 🗄️ Databases & Cloud
+### 🗄️ Databases
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite&theme=dark" />
 
 ### 🛠️ Development Tools
