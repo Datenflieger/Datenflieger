@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d0d0d,100:1f1f1f&section=header" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:f5f5f5,100:d9d9d9&section=header" alt="header" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2600&pause=1200&color=F2F2F2&center=true&vCenter=true&repeat=true&width=850&lines=Hi%2C+I'm+Datenflieger.;Hobby+coder+building+Minecraft+plugins%2C+mods%2C+and+tools.;Turning+ideas+into+clean+code%2C+one+project+at+a+time." alt="Typing SVG" />
 
@@ -22,6 +22,7 @@
 <div align="center">
   <a href="https://github.com/Datenflieger/ZapTools"><img src="https://img.shields.io/badge/ZapTools-Utility_Suite-111111?style=for-the-badge&logo=typescript&logoColor=white" alt="ZapTools" /></a>
   <a href="https://github.com/Datenflieger/MossAddon"><img src="https://img.shields.io/badge/MossAddon-Cactus_Mod_Addon-1b1b1b?style=for-the-badge&logo=java&logoColor=white" alt="MossAddon" /></a>
+  <a href="https://github.com/Datenflieger/Motion-Blur-Addon"><img src="https://img.shields.io/badge/Motion_Blur_Addon-Cactus_Mod-252525?style=for-the-badge&logo=java&logoColor=white" alt="Motion Blur Addon" /></a>
   <a href="https://github.com/Datenflieger/SwiftAddon"><img src="https://img.shields.io/badge/SwiftAddon-LabyMod_Utility_Addon-303030?style=for-the-badge&logo=java&logoColor=white" alt="SwiftAddon" /></a>
 </div>
 
@@ -36,5 +37,5 @@
 </div>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:1f1f1f,100:0d0d0d&section=footer" alt="footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:d9d9d9,100:f5f5f5&section=footer" alt="footer" />
 </div>
