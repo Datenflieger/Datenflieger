@@ -22,7 +22,6 @@
 <div align="center">
   <a href="https://github.com/Datenflieger/ZapTools"><img src="https://img.shields.io/badge/ZapTools-Utility_Suite-111111?style=for-the-badge&logo=typescript&logoColor=white" alt="ZapTools" /></a>
   <a href="https://github.com/Datenflieger/MossAddon"><img src="https://img.shields.io/badge/MossAddon-Cactus_Mod_Addon-1b1b1b?style=for-the-badge&logo=java&logoColor=white" alt="MossAddon" /></a>
-  <a href="https://github.com/Datenflieger/Motion-Blur-Addon"><img src="https://img.shields.io/badge/Motion_Blur_Addon-Cactus_Mod-252525?style=for-the-badge&logo=java&logoColor=white" alt="Motion Blur Addon" /></a>
   <a href="https://github.com/Datenflieger/SwiftAddon"><img src="https://img.shields.io/badge/SwiftAddon-LabyMod_Utility_Addon-303030?style=for-the-badge&logo=java&logoColor=white" alt="SwiftAddon" /></a>
 </div>
 
