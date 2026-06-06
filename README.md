@@ -8,6 +8,7 @@
 
 <a href="https://github.com/Datenflieger"><img src="https://img.shields.io/badge/GitHub-Datenflieger-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://zap-tools.vercel.app/"><img src="https://img.shields.io/badge/Website-zap--tools.vercel.app-1c1c1c?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" /></a>
+<img src="https://img.shields.io/badge/Discord-datenflieger-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord datenflieger" />
 
 </div>
 
@@ -23,6 +24,12 @@
   <a href="https://github.com/Datenflieger/ZapTools"><img src="https://img.shields.io/badge/ZapTools-Utility_Suite-111111?style=for-the-badge&logo=typescript&logoColor=white" alt="ZapTools" /></a>
   <a href="https://github.com/Datenflieger/MossAddon"><img src="https://img.shields.io/badge/MossAddon-Cactus_Mod_Addon-1b1b1b?style=for-the-badge&logo=java&logoColor=white" alt="MossAddon" /></a>
   <a href="https://github.com/Datenflieger/SwiftAddon"><img src="https://img.shields.io/badge/SwiftAddon-LabyMod_Utility_Addon-303030?style=for-the-badge&logo=java&logoColor=white" alt="SwiftAddon" /></a>
+</div>
+
+<br/>
+
+<div align="center">
+  Contact me on Discord: <code>datenflieger</code>
 </div>
 
 <br/>
