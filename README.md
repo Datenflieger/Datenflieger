@@ -15,7 +15,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,js,ts,react,python,git,html,css&theme=dark&perline=9" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,js,ts,react,flutter,python,git,html,css&theme=dark&perline=10" alt="Tech stack" />
 </div>
 
 <br/>
