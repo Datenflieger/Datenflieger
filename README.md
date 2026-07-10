@@ -4,7 +4,7 @@
 
 **Software developer building reliable systems, developer tools and products.**
 
-I work mainly with Java and Kotlin, with a focus on backend systems, clean architecture, maintainability and software built to solve real problems.
+I build primarily around Java and Kotlin, with a focus on backend systems, maintainability and software built to solve real problems.
 
 </div>
 
