@@ -1,47 +1,58 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:f5f5f5,100:d9d9d9&section=header" alt="header" />
+# Datenflieger
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2600&pause=1200&color=F2F2F2&center=true&vCenter=true&repeat=true&width=850&lines=Hi%2C+I'm+Datenflieger.;Hobby+coder+building+Minecraft+plugins%2C+mods%2C+and+tools.;Turning+ideas+into+clean+code%2C+one+project+at+a+time." alt="Typing SVG" />
+**Software developer building reliable systems, developer tools and products.**
 
-<br/>
-
-<a href="https://github.com/Datenflieger"><img src="https://img.shields.io/badge/GitHub-Datenflieger-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://zap-tools.vercel.app/"><img src="https://img.shields.io/badge/Website-zap--tools.vercel.app-1c1c1c?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" /></a>
-<img src="https://img.shields.io/badge/Discord-datenflieger-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord datenflieger" />
+I work mainly with Java and Kotlin, with a focus on backend systems, clean architecture, maintainability and software built to solve real problems.
 
 </div>
 
-<br/>
+<br>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,js,ts,react,flutter,python,git,html,css&theme=dark&perline=10" alt="Tech stack" />
-</div>
+## Selected work
 
-<br/>
+### OnThePixel
 
-<div align="center">
-  <a href="https://github.com/Datenflieger/ZapTools"><img src="https://img.shields.io/badge/ZapTools-Utility_Suite-111111?style=for-the-badge&logo=typescript&logoColor=white" alt="ZapTools" /></a>
-  <a href="https://github.com/Datenflieger/MossAddon"><img src="https://img.shields.io/badge/MossAddon-Cactus_Mod_Addon-1b1b1b?style=for-the-badge&logo=java&logoColor=white" alt="MossAddon" /></a>
-  <a href="https://github.com/Datenflieger/SwiftAddon"><img src="https://img.shields.io/badge/SwiftAddon-LabyMod_Utility_Addon-303030?style=for-the-badge&logo=java&logoColor=white" alt="SwiftAddon" /></a>
-</div>
+A Kotlin-based Minecraft minigame network built around isolated JVM services and its own cloud orchestration layer.
 
-<br/>
+I co-develop the network infrastructure and game servers. The system uses separate Minestom processes, RabbitMQ-driven service discovery and dynamic Velocity proxy synchronization.
 
-<div align="center">
-  Contact me on Discord: <code>datenflieger</code>
-</div>
+`Kotlin` `Minestom` `Velocity` `RabbitMQ` `Distributed Systems`
 
-<br/>
+---
 
-<div align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=Datenflieger&theme=transparent&hide_border=false&border=3a3a3a&stroke=8a8a8a&ring=f5f5f5&fire=f5f5f5&currStreakLabel=f5f5f5&sideLabels=d4d4d4&currStreakNum=ffffff&sideNums=ffffff&dates=9a9a9a" alt="GitHub streak" />
-</div>
+### [Cactus Mod](https://cactusmod.xyz)
 
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Datenflieger&bg_color=00000000&color=d4d4d4&line=f5f5f5&point=9e9e9e&area=true&area_color=1b1b1b&hide_border=false&border_color=3a3a3a" alt="Activity graph" />
-</div>
+A multi-purpose client-side Minecraft mod with over **25,000 downloads**.
 
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:d9d9d9,100:f5f5f5&section=footer" alt="footer" />
-</div>
+I contribute primarily through version porting, feature development, bug fixing and improvements across the codebase.
+
+`Java` `Fabric` `Mixins` `Version Porting`
+
+[Website](https://cactusmod.xyz) · [Modrinth](https://modrinth.com/mod/cactus)
+
+---
+
+### [ZapTools](https://github.com/Datenflieger/ZapTools)
+
+A browser-based utility suite providing practical tools for developers and everyday technical tasks.
+
+Built with a focus on fast access, simple interfaces and immediate usefulness without unnecessary complexity.
+
+`TypeScript` `React` `Web`
+
+[Repository](https://github.com/Datenflieger/ZapTools) · [Live](https://zap-tools.vercel.app/)
+
+## About my work
+
+I enjoy building software where architecture actually matters: systems with multiple components, clear boundaries, communication between services and code that remains understandable as a project grows.
+
+Minecraft development is one area I have worked extensively in, but my broader focus is on software systems, developer tooling and products that solve practical problems.
+
+## Contact
+
+Open to selected project-based development work, technical collaborations and interesting software projects.
+
+**Email:** `datenflieger.dev@proton.me`  
+**Discord:** `datenflieger`
