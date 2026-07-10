@@ -12,7 +12,8 @@ I build primarily around Java and Kotlin, with a focus on backend systems, maint
 
 ## Selected work
 
-### OnThePixel
+### [OnThePixel](https://onthepixel.net)
+
 
 A Kotlin-based Minecraft minigame network built around isolated JVM services and its own cloud orchestration layer.
 
