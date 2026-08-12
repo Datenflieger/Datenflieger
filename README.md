@@ -23,18 +23,6 @@ I co-develop the network infrastructure and game servers. The system uses separa
 
 ---
 
-### [Cactus Mod](https://cactusmod.xyz)
-
-A multi-purpose client-side Minecraft mod with over **25,000 downloads**.
-
-I contribute primarily through version porting, feature development, bug fixing and improvements across the codebase.
-
-`Java` `Fabric` `Mixins` `Version Porting`
-
-[Website](https://cactusmod.xyz) · [Modrinth](https://modrinth.com/mod/cactus)
-
----
-
 ### [ZapTools](https://github.com/Datenflieger/ZapTools)
 
 A browser-based utility suite providing practical tools for developers and everyday technical tasks.
