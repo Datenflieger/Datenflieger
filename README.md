@@ -10,7 +10,7 @@ I build primarily around Java and Kotlin, with a focus on backend systems, maint
 
 <br>
 
-## Selected work
+## Past work
 
 ### [OnThePixel](https://onthepixel.net)
 
@@ -20,6 +20,19 @@ A Kotlin-based Minecraft minigame network built around isolated JVM services and
 I co-develop the network infrastructure and game servers. The system uses separate Minestom processes, RabbitMQ-driven service discovery and dynamic Velocity proxy synchronization.
 
 `Kotlin` `Minestom` `Velocity` `RabbitMQ` `Distributed Systems`
+
+---
+
+
+### [Cactus Mod](https://cactusmod.xyz)
+
+A multi-purpose client-side Minecraft mod with over **25,000 downloads**.
+
+I contribute primarily through version porting, feature development, bug fixing and improvements across the codebase.
+
+`Java` `Fabric` `Mixins` `Version Porting`
+
+[Website](https://cactusmod.xyz) · [Modrinth](https://modrinth.com/mod/cactus)
 
 ---
 
